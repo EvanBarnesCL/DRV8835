@@ -1,2 +1,2 @@
 # DRV8835
-DRV8835 Motor Driver Library
+Crunchlabs DRV8835 Motor Driver Library
