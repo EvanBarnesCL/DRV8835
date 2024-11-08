@@ -1,0 +1,7 @@
+Crunchlabs_DRV8835	KEYWORD1
+DRV8835	KEYWORD1
+setMinOnPWM	KEYWORD2
+setSpeed	KEYWORD2
+getSpeedCommand	KEYWORD2
+getspeedActual	KEYWORD2
+map_uint8	KEYWORD2
